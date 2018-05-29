@@ -1,0 +1,7 @@
+﻿'USEUNIT lib
+Sub CreateOrders
+  LaunchOrdersApp
+  MaximizeMainForm  
+  CreateOrder
+  compareLastOrder
+End Sub

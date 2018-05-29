@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="12.0" key="{AEC5008F-FEB2-46B3-836E-59EA6CA4410B}">
+	<children>
+		<child name="GitAndJenkins" key="{4595418B-D843-4FC3-962E-549C96326CD9}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="GitAndJenkins\GitAndJenkins.mds" />
+		</child>
+	</children>
+	<folders />
+	<testItems key="{1D9C68D1-2E78-410D-8E66-670AA6145D2B}">
+		<children>
+			<testItem key="{4595418B-D843-4FC3-962E-549C96326CD9}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{A0B40DC3-319D-44BF-91FB-67ECF9816ACF}">
+		<data Version="3" />
+	</variables>
+	<analysis key="{E67C1AB3-37EA-4050-951D-85A14CE1BAB2}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}" />
+</Root>
